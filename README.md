@@ -40,4 +40,4 @@ We’d love to hear your thoughts! Please open an issue or reach out to share yo
 
 ---
 
-*Built with ❤️ by the AI community for the AI community.*
+*Built with ❤️ by [swarms.ai](https://swarms.ai) for the AI community.*
